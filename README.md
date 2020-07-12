@@ -71,8 +71,8 @@ For short distances, say in an open atrium, this is probably not necessary.
 Clone and build this repo and its dependency (assume destination is ~/catkin_ws/src)
 ```
 cd ~/catkin_ws/src
-git clone git@github.com/mfe7/cadrl_ros
-git clone git@bitbucket.org:acl-swarm/ford_msgs.git -b dev
+https://github.com/mit-acl/cadrl_ros.git
+git clone https://bitbucket.org/acl-swarm/ford_msgs.git
 cd ~/catkin_ws && catkin_make
 ```
 
